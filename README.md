@@ -3,6 +3,7 @@
 ![marker](https://cloud.githubusercontent.com/assets/2557967/14209204/d99db934-f81a-11e5-910c-9d34ac155d18.gif)
 
 Marker is a command palette for the terminal. It lets you bookmark commands (or commands templates) and easily retreive them with the help of a real-time fuzzy matcher.
+
 Маркер - это командная утилита для терминала. Это позволяет вам добавлять команды в закладки (или шаблоны команд) и легко извлекать их с помощью нечеткого сопоставления в реальном времени.
 
 It's also shipped with many commands common usage(Thanks to [tldr](https://github.com/tldr-pages/tldr)).
